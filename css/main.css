@@ -77,7 +77,8 @@ h2{
   background:#eee;
   margin: 30px auto;
   position: relative;
-  overflow: auto;
+  overflow:-y: scroll;
+  overflox:-x: hidden;
   padding-bottom:80px;
 }
 header{
