@@ -131,7 +131,7 @@ footer{
   width:100%;
   height:40px;
   background: #bbb;
-  position: bottom;
+  position: fixed;
   bottom: 0px;
   padding:0px;
 }
