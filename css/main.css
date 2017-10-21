@@ -61,7 +61,7 @@ body, html{
   height:100%;
   margin:0px;
   font-family: 'Roboto', sans-serif;
-  background-image: url(images/background.png);
+  background-image: url(https://github.com/jack-maber/comp210-interface-evaluation/blob/master/images/background.png);
 }
 h1{
   font-size: 2em;
